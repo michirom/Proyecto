@@ -1,6 +1,6 @@
 ﻿namespace Proyectotransaccional
 {
-    partial class Form1
+    partial class Login
     {
         /// <summary>
         ///  Required designer variable.
@@ -95,10 +95,11 @@
             textBox2.Size = new Size(265, 23);
             textBox2.TabIndex = 5;
             // 
-            // Form1
+            // Login
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(800, 450);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -106,8 +107,8 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "Login";
+            Text = "Pantalla de Login";
             ResumeLayout(false);
             PerformLayout();
         }
