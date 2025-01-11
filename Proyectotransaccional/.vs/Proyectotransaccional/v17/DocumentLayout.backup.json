@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Form1.cs",
               "RelativeDocumentMoniker": "Proyectotransaccional\\Form1.cs",
-              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Form1.cs [Design]",
-              "RelativeToolTip": "Proyectotransaccional\\Form1.cs [Design]",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Proyectotransaccional\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T17:09:58.495Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
