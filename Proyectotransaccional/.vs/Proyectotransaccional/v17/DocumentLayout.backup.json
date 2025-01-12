@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Det-Pc\\OneDrive\\Escritorio\\git\\Proyecto\\Proyectotransaccional\\",
+  "WorkspaceRootPath": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\Users\\Det-Pc\\OneDrive\\Escritorio\\git\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\users\\det-pc\\onedrive\\escritorio\\git\\proyecto\\proyectotransaccional\\proyectotransaccional\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\proyectotransaccional.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\proyectotransaccional.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +26,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\Login.Designer.cs",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.Designer.cs*",
+              "RelativeToolTip": "Proyectotransaccional\\Login.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T17:56:57.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proyectotransaccional",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\Proyectotransaccional.csproj",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj",
+              "RelativeToolTip": "Proyectotransaccional\\Proyectotransaccional.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T17:56:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Menu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Det-Pc\\OneDrive\\Escritorio\\git\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Menu.cs",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Menu.cs",
               "RelativeDocumentMoniker": "Proyectotransaccional\\Menu.cs",
-              "ToolTip": "C:\\Users\\Det-Pc\\OneDrive\\Escritorio\\git\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Menu.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Menu.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyectotransaccional\\Menu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T17:28:30.714Z",
@@ -34,12 +67,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Det-Pc\\OneDrive\\Escritorio\\git\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.cs",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.cs",
               "RelativeDocumentMoniker": "Proyectotransaccional\\Login.cs",
-              "ToolTip": "C:\\Users\\Det-Pc\\OneDrive\\Escritorio\\git\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyectotransaccional\\Login.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Proyectotransaccional\\Login.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T17:09:58.495Z",
               "EditorCaption": " [Dise\u00F1o]"

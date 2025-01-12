@@ -45,7 +45,7 @@
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Stencil", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.LightSlateGray;
+            label1.ForeColor = Color.DarkSlateGray;
             label1.Location = new Point(294, 53);
             label1.Name = "label1";
             label1.Size = new Size(215, 76);
@@ -57,11 +57,11 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
-            label2.Font = new Font("Tw Cen MT", 27.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label2.Font = new Font("Tw Cen MT", 24F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.Red;
-            label2.Location = new Point(105, 268);
+            label2.Location = new Point(106, 234);
             label2.Name = "label2";
-            label2.Size = new Size(179, 43);
+            label2.Size = new Size(153, 37);
             label2.TabIndex = 1;
             label2.Text = "Contraseña";
             // 
@@ -69,25 +69,25 @@
             // 
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
-            label3.Font = new Font("Tw Cen MT", 27.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label3.Font = new Font("Tw Cen MT", 24F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.Red;
-            label3.Location = new Point(105, 180);
+            label3.Location = new Point(141, 161);
             label3.Name = "label3";
-            label3.Size = new Size(127, 43);
+            label3.Size = new Size(108, 37);
             label3.TabIndex = 2;
             label3.Text = "Usuario";
             label3.Click += label3_Click;
             // 
             // button1
             // 
-            button1.BackColor = Color.SteelBlue;
+            button1.BackColor = Color.PeachPuff;
             button1.BackgroundImageLayout = ImageLayout.Center;
             button1.FlatAppearance.BorderColor = Color.SteelBlue;
             button1.FlatAppearance.BorderSize = 0;
             button1.FlatStyle = FlatStyle.Flat;
             button1.Font = new Font("Verdana", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = SystemColors.ControlText;
-            button1.Location = new Point(328, 360);
+            button1.Location = new Point(343, 339);
             button1.Name = "button1";
             button1.Size = new Size(137, 46);
             button1.TabIndex = 3;
@@ -98,20 +98,22 @@
             // textBox1
             // 
             textBox1.BackColor = SystemColors.HighlightText;
-            textBox1.Location = new Point(294, 190);
+            textBox1.Location = new Point(294, 176);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(265, 23);
             textBox1.TabIndex = 4;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(294, 278);
+            textBox2.Location = new Point(294, 248);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(265, 23);
             textBox2.TabIndex = 5;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // pictureBox1
             // 
+            pictureBox1.BackColor = Color.Transparent;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(605, -44);
             pictureBox1.Name = "pictureBox1";
@@ -125,7 +127,9 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightSteelBlue;
-            ClientSize = new Size(800, 450);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
+            ClientSize = new Size(807, 450);
             Controls.Add(pictureBox1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -134,6 +138,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Cursor = Cursors.No;
+            DoubleBuffered = true;
             ForeColor = SystemColors.ControlText;
             FormBorderStyle = FormBorderStyle.Fixed3D;
             Name = "Login";

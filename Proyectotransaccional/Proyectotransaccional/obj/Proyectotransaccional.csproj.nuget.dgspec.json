@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\proyecto\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj": {}
+    "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj": {}
   },
   "projects": {
-    "C:\\git\\proyecto\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj": {
+    "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\proyecto\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj",
+        "projectUniqueName": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj",
         "projectName": "Proyectotransaccional",
-        "projectPath": "C:\\git\\proyecto\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj",
-        "packagesPath": "C:\\Users\\KLEINER\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\proyecto\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\obj\\",
+        "projectPath": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Proyectotransaccional.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\KLEINER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,7 +42,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
