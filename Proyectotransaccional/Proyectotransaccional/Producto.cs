@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Proyectotransaccional
 {
-    public partial class Clientes : Form
+    public partial class Producto : Form
     {
-        public Clientes()
+        public Producto()
         {
             InitializeComponent();
-        }
-
-        private void label9_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

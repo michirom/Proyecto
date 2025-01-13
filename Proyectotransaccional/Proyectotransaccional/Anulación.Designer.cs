@@ -34,9 +34,9 @@
             label6 = new Label();
             button1 = new Button();
             label3 = new Label();
-            label4 = new Label();
-            label5 = new Label();
-            label7 = new Label();
+            textBox1 = new TextBox();
+            textBox2 = new TextBox();
+            textBox3 = new TextBox();
             SuspendLayout();
             // 
             // label1
@@ -93,35 +93,26 @@
             label3.TabIndex = 7;
             label3.Text = "ANULACIÓN";
             // 
-            // label4
+            // textBox1
             // 
-            label4.AutoSize = true;
-            label4.BackColor = Color.Transparent;
-            label4.Location = new Point(181, 76);
-            label4.Name = "label4";
-            label4.Size = new Size(12, 15);
-            label4.TabIndex = 8;
-            label4.Text = "-";
+            textBox1.Location = new Point(178, 73);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(100, 23);
+            textBox1.TabIndex = 8;
             // 
-            // label5
+            // textBox2
             // 
-            label5.AutoSize = true;
-            label5.BackColor = Color.Transparent;
-            label5.Location = new Point(181, 120);
-            label5.Name = "label5";
-            label5.Size = new Size(12, 15);
-            label5.TabIndex = 9;
-            label5.Text = "-";
+            textBox2.Location = new Point(178, 112);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(100, 23);
+            textBox2.TabIndex = 9;
             // 
-            // label7
+            // textBox3
             // 
-            label7.AutoSize = true;
-            label7.BackColor = Color.Transparent;
-            label7.Location = new Point(181, 161);
-            label7.Name = "label7";
-            label7.Size = new Size(12, 15);
-            label7.TabIndex = 10;
-            label7.Text = "-";
+            textBox3.Location = new Point(178, 153);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(100, 23);
+            textBox3.TabIndex = 10;
             // 
             // Anulación
             // 
@@ -131,9 +122,9 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(493, 251);
-            Controls.Add(label7);
-            Controls.Add(label5);
-            Controls.Add(label4);
+            Controls.Add(textBox3);
+            Controls.Add(textBox2);
+            Controls.Add(textBox1);
             Controls.Add(label3);
             Controls.Add(button1);
             Controls.Add(label6);
@@ -153,8 +144,8 @@
         private Label label6;
         private Button button1;
         private Label label3;
-        private Label label4;
-        private Label label5;
-        private Label label7;
+        private TextBox textBox1;
+        private TextBox textBox2;
+        private TextBox textBox3;
     }
 }
