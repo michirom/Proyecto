@@ -4,13 +4,19 @@
     <Compile Update="Anulación.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="CrearFactura.cs">
+    <Compile Update="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmitirFactura.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Login.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VerFactura.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

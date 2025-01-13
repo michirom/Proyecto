@@ -93,7 +93,7 @@
             // 
             // button1
             // 
-            button1.BackColor = Color.Black;
+            button1.BackColor = Color.Silver;
             button1.Cursor = Cursors.Hand;
             button1.FlatAppearance.BorderColor = Color.White;
             button1.FlatAppearance.BorderSize = 0;

@@ -45,7 +45,7 @@
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Stencil", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.DarkSlateGray;
+            label1.ForeColor = Color.LightSlateGray;
             label1.Location = new Point(294, 53);
             label1.Name = "label1";
             label1.Size = new Size(215, 76);
@@ -98,14 +98,14 @@
             // textBox1
             // 
             textBox1.BackColor = SystemColors.HighlightText;
-            textBox1.Location = new Point(294, 176);
+            textBox1.Location = new Point(279, 175);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(265, 23);
             textBox1.TabIndex = 4;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(294, 248);
+            textBox2.Location = new Point(279, 249);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(265, 23);
             textBox2.TabIndex = 5;
