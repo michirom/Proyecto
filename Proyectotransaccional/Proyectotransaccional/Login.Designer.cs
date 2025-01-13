@@ -58,7 +58,7 @@
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Tw Cen MT", 24F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            label2.ForeColor = Color.Red;
+            label2.ForeColor = Color.SteelBlue;
             label2.Location = new Point(106, 234);
             label2.Name = "label2";
             label2.Size = new Size(153, 37);
@@ -70,7 +70,7 @@
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Tw Cen MT", 24F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            label3.ForeColor = Color.Red;
+            label3.ForeColor = Color.SteelBlue;
             label3.Location = new Point(141, 161);
             label3.Name = "label3";
             label3.Size = new Size(108, 37);
@@ -80,7 +80,7 @@
             // 
             // button1
             // 
-            button1.BackColor = Color.PeachPuff;
+            button1.BackColor = Color.LightBlue;
             button1.BackgroundImageLayout = ImageLayout.Center;
             button1.FlatAppearance.BorderColor = Color.SteelBlue;
             button1.FlatAppearance.BorderSize = 0;

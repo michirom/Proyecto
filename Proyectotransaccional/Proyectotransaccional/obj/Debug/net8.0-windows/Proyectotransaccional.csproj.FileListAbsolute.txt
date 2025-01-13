@@ -18,3 +18,4 @@ C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\D
 C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Menu.resources
 C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Properties.Resources.resources
 C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.CrearFactura.resources
+C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Anulación.resources
