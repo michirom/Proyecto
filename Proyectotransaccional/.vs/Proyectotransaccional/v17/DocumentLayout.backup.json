@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\emitirfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\emitirfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\verfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\verfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\anulaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\anulaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\verfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\verfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\emitirfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\emitirfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -27,11 +35,11 @@
       "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\clientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\proyectotransaccional\\anulaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\anulaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\verfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|solutionrelative:proyectotransaccional\\verfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C8E8B2A-C260-48F9-AA6C-AEA6F21FB8CE}|Proyectotransaccional\\Proyectotransaccional.csproj|c:\\git\\proyecto 1 git\\proyecto\\proyectotransaccional\\proyectotransaccional\\proyectotransaccional.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -70,11 +70,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerFactura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\VerFactura.cs",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\VerFactura.cs",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\VerFactura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyectotransaccional\\VerFactura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:13:32.257Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerFactura.cs",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\VerFactura.cs",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\VerFactura.cs",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\VerFactura.cs",
+              "RelativeToolTip": "Proyectotransaccional\\VerFactura.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAewC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:28:34.762Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -90,68 +115,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Menu.cs",
-              "RelativeDocumentMoniker": "Proyectotransaccional\\Menu.cs",
-              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Menu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyectotransaccional\\Menu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T20:44:49.908Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.cs",
-              "RelativeDocumentMoniker": "Proyectotransaccional\\Login.cs",
-              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyectotransaccional\\Login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T20:44:44.622Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VerFactura.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\VerFactura.cs",
-              "RelativeDocumentMoniker": "Proyectotransaccional\\VerFactura.cs",
-              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\VerFactura.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyectotransaccional\\VerFactura.cs [Dise\u00F1o]",
+              "Title": "Anulaci\u00F3n.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Anulaci\u00F3n.cs",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\Anulaci\u00F3n.cs",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Anulaci\u00F3n.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyectotransaccional\\Anulaci\u00F3n.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T02:13:32.257Z",
+              "WhenOpened": "2025-01-12T23:19:32.19Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmitirFactura.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\EmitirFactura.cs",
-              "RelativeDocumentMoniker": "Proyectotransaccional\\EmitirFactura.cs",
-              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\EmitirFactura.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyectotransaccional\\EmitirFactura.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T02:09:49.895Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Program.cs",
-              "RelativeDocumentMoniker": "Proyectotransaccional\\Program.cs",
-              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Program.cs",
-              "RelativeToolTip": "Proyectotransaccional\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T03:22:19.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Producto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Producto.cs",
               "RelativeDocumentMoniker": "Proyectotransaccional\\Producto.cs",
@@ -163,19 +139,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmitirFactura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\EmitirFactura.cs",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\EmitirFactura.cs",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\EmitirFactura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyectotransaccional\\EmitirFactura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:09:49.895Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.cs",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\Login.cs",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyectotransaccional\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:44:44.622Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Program.cs",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\Program.cs",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Program.cs",
+              "RelativeToolTip": "Proyectotransaccional\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T03:22:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Menu.cs",
+              "RelativeDocumentMoniker": "Proyectotransaccional\\Menu.cs",
+              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Menu.cs [Design]",
+              "RelativeToolTip": "Proyectotransaccional\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:44:49.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Form1.cs",
               "RelativeDocumentMoniker": "Proyectotransaccional\\Form1.cs",
               "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyectotransaccional\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:54:32.238Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-14T02:54:32.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Clientes.Designer.cs",
               "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Clientes.Designer.cs",
               "RelativeDocumentMoniker": "Proyectotransaccional\\Clientes.Designer.cs",
@@ -188,19 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Anulaci\u00F3n.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Anulaci\u00F3n.cs",
-              "RelativeDocumentMoniker": "Proyectotransaccional\\Anulaci\u00F3n.cs",
-              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Anulaci\u00F3n.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Proyectotransaccional\\Anulaci\u00F3n.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T23:19:32.19Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Clientes.cs",
               "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\Clientes.cs",
               "RelativeDocumentMoniker": "Proyectotransaccional\\Clientes.cs",
@@ -208,20 +220,7 @@
               "RelativeToolTip": "Proyectotransaccional\\Clientes.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAewDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T01:02:08.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VerFactura.cs",
-              "DocumentMoniker": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\VerFactura.cs",
-              "RelativeDocumentMoniker": "Proyectotransaccional\\VerFactura.cs",
-              "ToolTip": "C:\\GIT\\Proyecto 1 GIT\\Proyecto\\Proyectotransaccional\\Proyectotransaccional\\VerFactura.cs",
-              "RelativeToolTip": "Proyectotransaccional\\VerFactura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T23:28:34.762Z"
+              "WhenOpened": "2025-01-14T01:02:08.906Z"
             },
             {
               "$type": "Document",
