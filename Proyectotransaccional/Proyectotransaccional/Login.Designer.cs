@@ -82,6 +82,7 @@
             // 
             button1.BackColor = Color.LightBlue;
             button1.BackgroundImageLayout = ImageLayout.Center;
+            button1.Cursor = Cursors.AppStarting;
             button1.FlatAppearance.BorderColor = Color.SteelBlue;
             button1.FlatAppearance.BorderSize = 0;
             button1.FlatStyle = FlatStyle.Flat;
@@ -137,7 +138,7 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Cursor = Cursors.No;
+            Cursor = Cursors.Default;
             DoubleBuffered = true;
             ForeColor = SystemColors.ControlText;
             FormBorderStyle = FormBorderStyle.Fixed3D;

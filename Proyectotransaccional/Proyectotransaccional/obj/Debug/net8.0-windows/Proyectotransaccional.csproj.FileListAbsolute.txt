@@ -46,3 +46,5 @@ C:\Users\User\Documents\GitHub\Proyecto\Proyectotransaccional\Proyectotransaccio
 C:\Users\User\Documents\GitHub\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.pdb
 C:\Users\User\Documents\GitHub\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\ref\Proyectotransaccional.dll
+C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Form1.resources
+C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Producto.resources

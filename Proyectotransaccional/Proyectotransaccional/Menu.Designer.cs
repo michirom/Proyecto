@@ -85,11 +85,11 @@
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Lucida Handwriting", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = SystemColors.GrayText;
-            label2.Location = new Point(476, 198);
+            label2.Location = new Point(497, 198);
             label2.Name = "label2";
-            label2.Size = new Size(125, 24);
+            label2.Size = new Size(94, 24);
             label2.TabIndex = 18;
-            label2.Text = "REPORTES";
+            label2.Text = "VENTAS";
             // 
             // button1
             // 
