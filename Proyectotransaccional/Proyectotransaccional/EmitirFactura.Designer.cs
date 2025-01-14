@@ -41,6 +41,9 @@
             label11 = new Label();
             label14 = new Label();
             panel1 = new Panel();
+            comboBox4 = new ComboBox();
+            comboBox3 = new ComboBox();
+            label3 = new Label();
             textBox6 = new TextBox();
             textBox5 = new TextBox();
             textBox3 = new TextBox();
@@ -50,9 +53,6 @@
             button2 = new Button();
             button1 = new Button();
             button3 = new Button();
-            label3 = new Label();
-            comboBox3 = new ComboBox();
-            comboBox4 = new ComboBox();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
@@ -142,11 +142,11 @@
             // 
             label9.AutoSize = true;
             label9.Font = new Font("Tahoma", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label9.Location = new Point(251, 20);
+            label9.Location = new Point(121, 18);
             label9.Name = "label9";
-            label9.Size = new Size(168, 39);
+            label9.Size = new Size(421, 39);
             label9.TabIndex = 10;
-            label9.Text = "FACTURA";
+            label9.Text = "IMPORTADORA EXPRESS";
             label9.Click += label9_Click;
             // 
             // label10
@@ -208,6 +208,33 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(556, 432);
             panel1.TabIndex = 17;
+            // 
+            // comboBox4
+            // 
+            comboBox4.FormattingEnabled = true;
+            comboBox4.Location = new Point(161, 68);
+            comboBox4.Name = "comboBox4";
+            comboBox4.Size = new Size(126, 23);
+            comboBox4.TabIndex = 28;
+            // 
+            // comboBox3
+            // 
+            comboBox3.FormattingEnabled = true;
+            comboBox3.Location = new Point(161, 21);
+            comboBox3.Name = "comboBox3";
+            comboBox3.Size = new Size(126, 23);
+            comboBox3.TabIndex = 27;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.BackColor = SystemColors.ButtonFace;
+            label3.Font = new Font("Yu Gothic", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Location = new Point(16, 94);
+            label3.Name = "label3";
+            label3.Size = new Size(101, 19);
+            label3.TabIndex = 26;
+            label3.Text = "PRODUCTO:";
             // 
             // textBox6
             // 
@@ -281,33 +308,6 @@
             button3.TabIndex = 20;
             button3.Text = "GRABAR";
             button3.UseVisualStyleBackColor = true;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.BackColor = SystemColors.ButtonFace;
-            label3.Font = new Font("Yu Gothic", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(16, 94);
-            label3.Name = "label3";
-            label3.Size = new Size(101, 19);
-            label3.TabIndex = 26;
-            label3.Text = "PRODUCTO:";
-            // 
-            // comboBox3
-            // 
-            comboBox3.FormattingEnabled = true;
-            comboBox3.Location = new Point(161, 21);
-            comboBox3.Name = "comboBox3";
-            comboBox3.Size = new Size(126, 23);
-            comboBox3.TabIndex = 27;
-            // 
-            // comboBox4
-            // 
-            comboBox4.FormattingEnabled = true;
-            comboBox4.Location = new Point(161, 68);
-            comboBox4.Name = "comboBox4";
-            comboBox4.Size = new Size(126, 23);
-            comboBox4.TabIndex = 28;
             // 
             // CrearFactura
             // 
